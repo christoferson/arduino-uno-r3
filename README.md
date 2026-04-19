@@ -9,7 +9,7 @@ Each project is contained in its own numbered folder with the sketch file matchi
 ## Projects
 
 - [001 - Basic LED Blink](001/001.ino) - Blinks the built-in LED on and off at 1-second intervals
-- [002 - Button Input](002/002.ino) - TBD
+- [002 - PWM LED Fading](002/002.ino) - Multiple LED fading effects using PWM (breathing, wave, knight rider, etc.) with 5 LEDs
 - [003 - PWM Fade](003/003.ino) - TBD
 
 
